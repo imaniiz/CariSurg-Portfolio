@@ -2,6 +2,12 @@
 ## Overview
 Welcome to my CariSurg MedTech Pathways portfolio repository. This repository documents my progress throughout week 0 of the Carisurg Healthcare AI Training Program as I develop skills in Python programming, healthcare data analysis and clinical AI within a Caribbean context. 
 
+Week 0 focuses on onboarding into Clinical AI & Innovation workflow through:
+- Data cleaning and exploratary data analysis
+- Visualization of Mercer General Hospital emergency department triage data
+- Interpretation of clinical vital signs
+- Basic at-risk patient identification using rule-based logic 
+
 ## Tools & Technologies
 - Python
 - Pandas
