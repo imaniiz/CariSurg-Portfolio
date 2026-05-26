@@ -135,6 +135,7 @@ For the final Week 0 assignment, we were required to design a digital triaging m
 
 For my submission, I created a flowchart showing how a digital triage system can analyze patient vital signs such as GCS, blood pressure, pulse, respiratory rate, temperature, and FiO₂ to identify high-risk patients and assign appropriate triage categories based on clinical urgency. This assignment helped me better understand how healthcare AI systems can support emergency department decision-making.
 
+[Assignment 6 Notebook](Assignment6_TriagePseudocode.pdf)
 
 
 
