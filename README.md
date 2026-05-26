@@ -90,5 +90,31 @@ A bar plot was created to visualize the distribution of oxygen support levels (F
 
 [Assignment 3 Notebook](Assignment3_DataVisualization.ipynb) 
 
+## Assignment 4 - Vital Sign Description 
+
+For Assignment 4, we were required to select one vital sign from the emergency department dataset and write a short clinical overview discussing:
+
+- What the vital sign measures
+- Its normal clinical range
+- Additional medical significance
+- How it is used during triaging in emergency care
+
+The available vital signs included:
+
+- Age
+- GCS (Glasgow Coma Scale)
+- SBP (Systolic Blood Pressure)
+- DBP (Diastolic Blood Pressure)
+- MAP (Mean Arterial Pressure)
+- Pulse
+- Temperature
+- Respiratory Rate (RR)
+- FiO₂
+- Gender
+
+I selected the Glasgow Coma Scale (GCS) and explored its importance in assessing a patient’s level of consciousness and neurological condition during emergency triage.
+
+One of the primary vital signs used by healthcare professionals is the Glasgow Coma Scale (GCS). It is a neurological assessment tool used to determine and monitor the consciousness of patients by observing how they respond to basic instructions and stimuli. In the medical context, consciousness refers to how awake, alert and oriented a patient is. Healthcare providers perform GCS assessments by evaluating the patient in three categories: eye opening, motor response and verbal response. The verbal response is done by observing the patient’s response to certain questions to test their memory and awareness. The motor response involves applying pressure to areas such as the nail beds, trapezius muscle and supraorbital notch and observing the patient's reflexes and reactions. The eye response evaluates the patients ability to open their eyes. Each category is assigned a score of 1 to 6 and the combined total gives the overall GCS score, which has a clinical range of 3 to 15. A lower GCS score indicates severe impairment of consciousness. A score  of 3 to 8 indicates severe traumatic brain injury, 9 to 12 indicates moderate injury and 13 to 15 indicates mild injury. During triaging in the emergency department, healthcare professionals therefore prioritize patients with lower GCS scores because they are considered to be in more critical condition and are in greater need of immediate medical attention.
+
 
 
