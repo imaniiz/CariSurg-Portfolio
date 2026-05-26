@@ -129,3 +129,14 @@ For this assignment, I selected Capillary Refill Time (CRT) and explored its rol
 
 Capillary Refill Time (CRT) is another important vital sign that was not previously considered in the dataset. CRT is a clinical assessment used to detect changes in the patient’s blood circulation, in the arms and legs. When there is a sudden decrease in blood flow, a patient can go into shock meaning that their organs may not be receiving sufficient oxygen for proper functionality. A CRT assessment is therefore a quick and efficient method used to detect blood flow issues when a patient enters the emergency department. CRT assessments are typically performed when a patient is at risk of shock or becomes unstable due to symptoms such as loss of consciousness, altered mental state and rapid changes in body temperature. The assessment is performed by elevating one hand or foot above the heart, applying pressure to one finger or toe for up to 10 seconds and observing the time it takes for the skin to return to its original colour after the pressure is released. For a healthy person, the expected CRT would be 2 seconds or less in infants and around 3 seconds or less in adults. During training, an unusually long CRT in a patient may indicate poor blood circulation, shock or cardiovascular problems and they would be prioritised for immediate medical attention. 
 
+## Assignment 6 - Triage Pseudocode
+
+For the final Week 0 assignment, we were required to design a digital triaging model that could process patient data and categorize patients into risk levels. The model could be presented using pseudocode, flowcharts, instructions, or written explanations.
+
+For my submission, I created a flowchart showing how a digital triage system can analyze patient vital signs such as GCS, blood pressure, pulse, respiratory rate, temperature, and FiO₂ to identify high-risk patients and assign appropriate triage categories based on clinical urgency. This assignment helped me better understand how healthcare AI systems can support emergency department decision-making.
+
+
+
+
+
+
