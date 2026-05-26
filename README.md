@@ -116,5 +116,16 @@ I selected the Glasgow Coma Scale (GCS) and explored its importance in assessing
 
 One of the primary vital signs used by healthcare professionals is the Glasgow Coma Scale (GCS). It is a neurological assessment tool used to determine and monitor the consciousness of patients by observing how they respond to basic instructions and stimuli. In the medical context, consciousness refers to how awake, alert and oriented a patient is. Healthcare providers perform GCS assessments by evaluating the patient in three categories: eye opening, motor response and verbal response. The verbal response is done by observing the patient’s response to certain questions to test their memory and awareness. The motor response involves applying pressure to areas such as the nail beds, trapezius muscle and supraorbital notch and observing the patient's reflexes and reactions. The eye response evaluates the patients ability to open their eyes. Each category is assigned a score of 1 to 6 and the combined total gives the overall GCS score, which has a clinical range of 3 to 15. A lower GCS score indicates severe impairment of consciousness. A score  of 3 to 8 indicates severe traumatic brain injury, 9 to 12 indicates moderate injury and 13 to 15 indicates mild injury. During triaging in the emergency department, healthcare professionals therefore prioritize patients with lower GCS scores because they are considered to be in more critical condition and are in greater need of immediate medical attention.
 
+## Assignment 5 - Unconsidered Metrics 
 
+For Assignment 5, we were required to select a vital sign that was not included in the original emergency department dataset and write a short clinical overview discussing:
+
+- What the vital sign measures
+- Its normal clinical range
+- Additional medical significance
+- How it is used during triaging in emergency care
+
+For this assignment, I selected Capillary Refill Time (CRT) and explored its role in assessing blood circulation and detecting signs of shock or cardiovascular instability in emergency patients.
+
+Capillary Refill Time (CRT) is another important vital sign that was not previously considered in the dataset. CRT is a clinical assessment used to detect changes in the patient’s blood circulation, in the arms and legs. When there is a sudden decrease in blood flow, a patient can go into shock meaning that their organs may not be receiving sufficient oxygen for proper functionality. A CRT assessment is therefore a quick and efficient method used to detect blood flow issues when a patient enters the emergency department. CRT assessments are typically performed when a patient is at risk of shock or becomes unstable due to symptoms such as loss of consciousness, altered mental state and rapid changes in body temperature. The assessment is performed by elevating one hand or foot above the heart, applying pressure to one finger or toe for up to 10 seconds and observing the time it takes for the skin to return to its original colour after the pressure is released. For a healthy person, the expected CRT would be 2 seconds or less in infants and around 3 seconds or less in adults. During training, an unusually long CRT in a patient may indicate poor blood circulation, shock or cardiovascular problems and they would be prioritised for immediate medical attention. 
 
