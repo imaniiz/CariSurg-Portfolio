@@ -12,7 +12,7 @@ This assignment focused on setting up the development environment and performing
 - Explored and previewed dataset to view patient records
 - Cleaned and standardized inconsistent Gender column values by mapping gender entries to numerical values
   
-[Assignment 1 Notebook](Notebooks/Assignment1_GenderColumnCleaning.ipynb)
+[Assignment 1 Notebook](Assignment1_GenderColumnCleaning.ipynb)
 
 ## Assignment 2 - Data Cleaning (Fio2 Column)
 This assignment is a continuation of assignment 1, focused on cleaning and preprocessing the introductory healthcare dataset cleaning, specifically the Fraction of Inspired Oxygen (FiO2) column. 
@@ -36,7 +36,7 @@ Missing FiO2 values were replaced with the mode of the column which was determin
 - Used visualization techniques to inspect data before cleaning
 - Evaluated healthcare measurements using real-world clinical reasoning
 
-[Assignment 2 Notebook](Notebooks/Assignment2_DataCleaning_Fio2Column_Group.ipynb)
+[Assignment 2 Notebook](Assignment2_DataCleaning_Fio2Column_Group.ipynb)
 
 ## Assignment 3 - Data Visualization 
 This assignment focused on exploring healthcare data through visualization techniques using matplotlib. The goal was to use the raw emergency department pation data and develop meanigful visual representations that could support clinical decision making. 
@@ -73,5 +73,5 @@ A bar plot was created to visualize the distribution of oxygen support levels (F
 - Added clinical threshold lines, shaded regions and annotations
 - Used visualization techniques to support potentional clinical interpretation and decision making
 
-[Assignment 3 Notebook](Notebooks/Assignment3_DataVisualization.ipynb) 
+[Assignment 3 Notebook](Assignment3_DataVisualization.ipynb) 
 
