@@ -5,8 +5,6 @@ Welcome to my CariSurg MedTech Pathways portfolio repository. This repository do
 ## Who is this Repository for?
 This repository is intended for CariSurg mentors, programme participants, clinical reviewers and anyone interested in the application of AI and data analysis within healthcare. 
 
-## Repository Structure 
-
 ## Running the Project 
 1. Clone the repository
 2. Install the required Python libraries listed in requirements.txt
