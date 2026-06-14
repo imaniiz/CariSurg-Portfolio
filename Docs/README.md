@@ -50,3 +50,15 @@ For my submission, I created a flowchart showing how a digital triage system can
 
 [Assignment 6 Notebook](Assignment6_TriagePseudocode.pdf)
 
+# Week 1 Documents 
+Week 1 focused on investigating the use of artificial intelligence in emergency department triage and developing a research proposal for a potential AI-assisted decision-support system within a Caribbean healthcare setting.
+
+Tasks Completed
+
+- Conducted a literature review of recent research on AI and machine learning applications in emergency department triage.
+- Investigated emergency department workflow challenges within Caribbean healthcare systems.
+- Identified gaps in current research, particularly the limited evaluation of AI triage models in Caribbean clinical environments.
+- Developed a preliminary research proposal titled Enhancing Emergency Department Triage with Artificial Intelligence.
+
+[Week 1 Notebook](Assignment6_TriagePseudocode.pdf)
+
