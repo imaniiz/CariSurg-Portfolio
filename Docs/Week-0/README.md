@@ -4,7 +4,7 @@
 Week 0 served as an introduction to the CariSurg MedTech Pathways Healthcare AI Programme and focused on developing the foundational technical and clinical skills required for subsequent weeks. The week introduced both technical exercises and the role of clinical AI within healthcare, responsible AI use and the importance of understanding clinical data before developing a machine learning model. 
 
 ## Learning Objectives
-Week 0 focuses on onboarding into Clinical AI & Innovation workflow through:
+Week 0 focused on onboarding into Clinical AI & Innovation workflow through:
 - Data cleaning and exploratory data analysis
 - Visualisation of Mercer General Hospital emergency department triage data
 - Interpretation of clinical vital signs
