@@ -15,7 +15,7 @@ Week 0 focuses on onboarding into Clinical AI & Innovation workflow through:
 ## Assignment 1 - Gender Column Data Cleaning 
 Used introductory data cleaning techniques to standardise inconsistent gender values within the dataset by identifying variations in formatting and converting them into a consistent representation suitable for analysis.
 
-[Assignment 1 Notebook](CariSurg-Portfolio/Notebooks/Assignment1_GenderColumnCleaning.ipynb)
+[Assignment 1 Notebook](../../Notebooks/Assignment1_GenderColumnCleaning.ipynb)
 
 ## Assignment 2 - FiO2 Column Data Cleaning 
 Worked as part of a group to clean the FiO₂ column of the patient dataset by identifying implausible values, handling missing data, and applying appropriate preprocessing techniques to improve data quality prior to analysis.
