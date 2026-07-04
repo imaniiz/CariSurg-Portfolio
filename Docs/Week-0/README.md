@@ -20,7 +20,7 @@ Used introductory data cleaning techniques to standardise inconsistent gender va
 ## Assignment 2 - FiO2 Column Data Cleaning 
 Worked as part of a group to clean the FiO₂ column of the patient dataset by identifying implausible values, handling missing data, and applying appropriate preprocessing techniques to improve data quality prior to analysis.
 
-[Assignment 2 Notebook](Notebooks/Assignment2_DataCleaning_Fio2Column_Group.ipynb)
+[Assignment 2 Notebook](../../Notebooks/Assignment2_DataCleaning_Fio2Column_Group.ipynb)
 
 ## Assignment 3 - Exploratory Data Analysis
 Performed introductory exploratory data analysis on the emergency department dataset using Python. This included generating descriptive statistics, investigating missing values, and producing visualisations to better understand the distribution of key clinical variables.
