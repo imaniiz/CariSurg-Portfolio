@@ -1,5 +1,4 @@
-Risk Register - AI Assisted Triage,,,,,,
-,,,,,,
+Risk Register - AI Assisted Triage
 Risk,Description,Category,Likelihood ,Impact,Mitigation,Signal of Success
 Biased Triage Recommendations ,The AI may produce less accurate recommendations for certain demographic groups ,AI-Technical ,M,H,"Train and validate on diverse patient populations and perform bias audits across age, gender and ethnicity groups",Similar model performance across demogrpahic groups 
 Distribution Shift,Changes in patient populations or disease patterns may reduce model accuracy ,AI-Technical ,H,H,Continuously monitor model perfromance and retrain using recent hospital data,Accuracy remains within predefined threshold after deployment 
