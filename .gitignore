@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files - excluded because dataset is large and sensitive
+data/
+Data/
+data/**
+Data/**
+*.csv
+*.xlsx
+*.parquet
+
+# Jupyter / Python 
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# System files 
+.DS_Store
+Thumbs.db 
