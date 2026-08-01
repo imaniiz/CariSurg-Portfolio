@@ -1,4 +1,4 @@
-# Week 5 – Building a Baseline Model (Part 2 of 2)
+# Week 6 – Building a Baseline Model (Part 2 of 2)
 
 ## Overview
 
